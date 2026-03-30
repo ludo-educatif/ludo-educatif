@@ -43,5 +43,5 @@ Atypical path: published author (7 books, 2000-2010), literary critic, narrative
 - [megatek.ai](https://megatek.ai) — AI Directory
 - [mindchat.world](https://mindchat.world) — Conversational Library
 - [aria-coach.chat](https://aria-coach.chat) — Anti-Smoking Coach
-- [LinkedIn](https://www.linkedin.com/in/ludovic-b-05a53b33/)
+- [LinkedIn](https://www.linkedin.com/in/ludovic-bablon/)
 - contact@ludomatique.com
